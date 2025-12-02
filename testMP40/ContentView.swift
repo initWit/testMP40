@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("This is develop")
             Text("This is Feature 26 R1 now")
             Text("This is Feature 26 R2 now")
+            Text("This is Feature 26 R3 now")
 
         }
         .padding()
